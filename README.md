@@ -1,4 +1,4 @@
-# small-business-check
+# creditbase
 
 Running a Small Business is difficult, we are frequently facing a lot of scammers on the way of chasing supplies.
 This project is trying to help the small business out.
