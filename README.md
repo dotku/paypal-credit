@@ -7,3 +7,6 @@ Leave message if you are want to join the project.
 
 Official Website:
 scam-check.lovestoblog.com
+
+## TODOs
+* Add creaditbase.intltrade.us to this project.
